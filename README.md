@@ -1,11 +1,10 @@
 # Hi, I'm `Abhimanyu`! 👋
+
+## 🚀 About Me
 <table>
 <tr>
 <td>
   
-## 🚀 About Me
-
-
 - `I'm a full stack developer 💻`
 
 - `I'm currently doing Bachelor of Computer Science from BITS Pilani, India 🎓`
