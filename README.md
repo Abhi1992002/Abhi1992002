@@ -9,7 +9,6 @@
 
 - `I'm currently doing Bachelor of Computer Science from BITS Pilani, India 🎓`
 
-- Want to know more? Check my [`profile`](https://abhimanyu.tech) 🌐
 
 </td>
 <td>
